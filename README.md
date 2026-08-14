@@ -1,4 +1,5 @@
 # In Silico Annotation & ACMG Evidence Curation of *MYOD1* Missense Variants of Uncertain Significance in Rhabdomyosarcoma
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21929026.svg)](https://doi.org/10.5281/zenodo.21929026)
 
 ## Executive Summary
 Variants of Uncertain Significance (VUS) present a critical challenge in clinical genetics and cancer predisposition screening. *MYOD1* is a master regulator bHLH transcription factor critical for skeletal muscle differentiation and frequently altered in pediatric embryonal Rhabdomyosarcoma (eRMS). 
