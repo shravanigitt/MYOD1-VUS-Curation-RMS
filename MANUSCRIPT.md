@@ -3,6 +3,7 @@
 **Author:** Shravani Vijay Zagade  
 **Affiliation:** Manipal Institute of Regenerative Medicine (MIRM), Manipal Academy of Higher Education (MAHE), Bengaluru, India  
 **Contact:** zshravani818@gmail.com | [LinkedIn Profile](https://www.linkedin.com/in/shravani-zagade-29249b262/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21929026.svg)](https://doi.org/10.5281/zenodo.21929026)
 
 ---
 
